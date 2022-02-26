@@ -38,6 +38,9 @@ Describe any challenges encountered while building the app.
 
 
 <img src="http://g.recordit.co/sj5iVCtVLI.gif" width=250><br>
+<img src="http://g.recordit.co/imXivZipop.gif" width=250><br>
+<img src="http://g.recordit.co/qNXNCR2Zoq.gif" width=250><br>
+<img src="http://g.recordit.co/67VFoNNgG2.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
