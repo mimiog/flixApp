@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-- My CollectionView page kept showing a white line, almost like the layout wasnt stretched enough even when it was. To fix this, I stretched out the collectionView just a bit and it worked fine after that. 
+- My CollectionView page kept showing a white line, almost like the layout was not stretched enough even though it was. To fix this, I stretched out the collectionView just a bit and it worked fine after that. 
 
 ---
 
